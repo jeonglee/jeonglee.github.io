@@ -1,4 +1,0 @@
-library angular2_components_lib_src_components_material_tab_fixed_material_tab_strip.scss.css.shim.dart;
-
-
-const List<dynamic> styles = const ['[_nghost-%COMP%]{display:-webkit-flex;display:flex;-webkit-flex-shrink:0;flex-shrink:0;width:100%}.navi-bar[_ngcontent-%COMP%]{display:-webkit-flex;display:flex;margin:0;overflow:hidden;padding:0;position:relative;white-space:nowrap;width:100%}.navi-bar[_ngcontent-%COMP%]   .tab-button[_ngcontent-%COMP%]{-webkit-flex:1;flex:1;overflow:hidden;color:#616161;font-weight:500;margin:0}.navi-bar[_ngcontent-%COMP%]   .tab-button.active[_ngcontent-%COMP%]{color:#4285f4}.tab-indicator[_ngcontent-%COMP%]{-moz-transform-origin:left center;-ms-transform-origin:left center;-webkit-transform-origin:left center;transform-origin:left center;background:#4285f4;bottom:0;left:0;right:0;height:2px;position:absolute;transition:transform cubic-bezier(0.4, 0, 0.2, 1) 436ms}'];

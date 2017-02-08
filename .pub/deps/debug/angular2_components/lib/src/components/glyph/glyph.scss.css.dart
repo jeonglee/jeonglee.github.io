@@ -1,4 +1,0 @@
-library angular2_components_lib_src_components_glyph_glyph.scss.css.dart;
-
-
-const List<dynamic> styles = const ['/*\n * Copyright (c) 2016, the Dart project authors.  Please see the AUTHORS file\n * for details. All rights reserved. Use of this source code is governed by a\n * BSD-style license that can be found in the LICENSE file.\n */\n:host{display:-webkit-inline-flex;display:inline-flex}:host[light]{opacity:0.54}:host[size="x-small"] /deep/ i{font-size:12px;height:1em;line-height:1em;width:1em}:host[size="small"] /deep/ i{font-size:13px;height:1em;line-height:1em;width:1em}:host[size="medium"] /deep/ i{font-size:16px;height:1em;line-height:1em;width:1em}:host[size="large"] /deep/ i{font-size:18px;height:1em;line-height:1em;width:1em}:host[size="x-large"] /deep/ i{font-size:20px;height:1em;line-height:1em;width:1em}\n'];
