@@ -1,0 +1,2 @@
+1.21.1
+angular2/transform/codegen,dart_to_js_script_rewriter

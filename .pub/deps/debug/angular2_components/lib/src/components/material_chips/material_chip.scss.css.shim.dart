@@ -1,0 +1,4 @@
+library angular2_components_lib_src_components_material_chips_material_chip.scss.css.shim.dart;
+
+
+const List<dynamic> styles = const ['[_nghost-%COMP%]{display:-webkit-flex;display:flex;-webkit-align-items:center;align-items:center;border-radius:16px;height:32px;margin:4px}.content[_ngcontent-%COMP%]{margin:0 12px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.delete-icon[_ngcontent-%COMP%]{display:-webkit-flex;display:flex;background-size:19px 19px;border:0;cursor:pointer;height:19px;margin-left:-8px;margin-right:4px;min-width:19px;padding:3px;width:19px}.delete-icon[_ngcontent-%COMP%]:focus{outline:none}[_nghost-%COMP%]{background-color:#e0e0e0;color:#000}[_nghost-%COMP%] .delete-icon{fill:#9e9e9e}[_nghost-%COMP%] .delete-icon:focus{fill:#fff}[_nghost-%COMP%][emphasis]{background-color:#4285f4;color:#fff}[_nghost-%COMP%][emphasis] .delete-icon{fill:#fff}'];
